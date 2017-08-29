@@ -3,7 +3,7 @@ function runOnButton1() {
     var time = "21:30";
     var place = "home";
     var events = prompt("Enter event","party");
-    var result = Name + " invites all at " + Time + " in the " + Place + " for the " + events;
+    var result = name + " invites all at " + time + " in the " + place + " for the " + events;
     console.log(result);
 }
 function runOnButton2() {
